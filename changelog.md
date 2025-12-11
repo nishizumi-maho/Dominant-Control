@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to this project will be documented in this file.
+All notable changes to Dominant Control for iRacing will be documented in this file.
 
 ---
 
@@ -134,8 +134,8 @@ Due to the sensitive nature of this software:
 
 ### File Structure
 ```
-iRacingControlManager_v1.0.0.zip
-├── iRacingControlManager.exe
+DominantControl_v1.0.0.zip
+├── DominantControl.exe
 ├── README.md
 ├── QUICKSTART.md
 ├── INSTALLATION.md

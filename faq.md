@@ -1,4 +1,7 @@
 # Frequently Asked Questions (FAQ)
+
+Common questions about Dominant Control for iRacing.
+
 ---
 
 ## General Questions

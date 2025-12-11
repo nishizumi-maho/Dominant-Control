@@ -78,7 +78,7 @@ The application is safe - this warning appears for many legitimate applications.
 ### Initial Launch
 
 On first run, the application will:
-1. Create configuration folder: `%APPDATA%\iRacingControlManager\`
+1. Create configuration folder: `%APPDATA%\DominantControl\`
 2. Initialize default settings
 3. Open the main window
 
@@ -190,8 +190,8 @@ If using controllers/joysticks:
 ### Application Files
 Located where you extracted:
 ```
-C:\iRacingControl\
-├── iRacingControlManager.exe
+C:\DominantControl\
+├── DominantControl.exe
 ├── README.md
 ├── LICENSE.md
 └── (other documentation files)
@@ -200,7 +200,7 @@ C:\iRacingControl\
 ### Configuration Files
 Automatically created in:
 ```
-%APPDATA%\iRacingControlManager\configs\
+%APPDATA%\DominantControl\configs\
 └── config_v3.json
 ```
 

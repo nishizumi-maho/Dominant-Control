@@ -1,6 +1,6 @@
 # Quick Start Guide
 
-Get up and running in 5 minutes.
+Get up and running in 5 minutes with Dominant Control for iRacing.
 
 ## ⚠️ Important First
 
@@ -16,8 +16,8 @@ Use responsibly. You are responsible for compliance.
 
 ## Step 1: Download & Extract (30 seconds)
 
-1. Download `iRacingControlManager_v1.0.0.zip` from Releases
-2. Extract to `C:\iRacingControl\`
+1. Download `DominantControl_v1.0.0.zip` from Releases
+2. Extract to `C:\DominantControl\`
 3. Done!
 
 ---
@@ -26,7 +26,7 @@ Use responsibly. You are responsible for compliance.
 
 **⚠️ To avoid force feedback issues, follow this order:**
 
-1. **FIRST**: Run `iRacingControlManager.exe`
+1. **FIRST**: Run `DominantControl.exe`
 2. Windows warning? Click "More info" → "Run anyway"
 3. **THEN**: Start iRacing
 
